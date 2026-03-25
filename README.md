@@ -76,7 +76,7 @@ Le projet repose sur une approche en trois dimensions :
 
 ### Sources
 
-* Données officielles du STECF (Commission européenne)
+* Données officielles du STECF (Commission européenne) : https://stecf.ec.europa.eu/document/b9b795d9-d6c5-4a27-b977-2b73afb645d2_en?prefLang=en
 * Données sur les droits d’accises (Bulletin pétrolier)
 
 ### Datasets construits
