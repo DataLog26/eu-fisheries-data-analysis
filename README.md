@@ -121,7 +121,7 @@ Un tableau de bord interactif permet :
 * Visualisation des captures par zone et espèce
 * Évaluation des subventions et de leur impact
 
-👉 Dashboard Power BI : [Ajouter le lien]
+👉 Dashboard Power BI disponible dans dans le dossier `/dashboard`.
 
 ---
 
@@ -164,12 +164,9 @@ Le rapport complet est disponible dans le dossier `/report`.
 
 ---
 
-## 👤 Auteur
+## 👤 Contact
 
-Julien Grapin
-Data Analyst
-
-📬 [LinkedIn / Contact à ajouter]
+Pour toute question ou pour demander le rapport complet, merci d’ouvrir une issue sur ce dépôt GitHub.
 
 ---
 
